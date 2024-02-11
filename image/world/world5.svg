@@ -1,0 +1,21 @@
+<svg width="80.000000" height="80.000000" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip25_73">
+			<rect id="icon" width="31.000000" height="31.000000" transform="translate(25.000000 24.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Background" cx="40.000000" cy="40.000000" r="40.000000" fill="#35AFBF" fill-opacity="1.000000"/>
+	<rect id="icon" width="31.000000" height="31.000000" transform="translate(25.000000 24.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip25_73)">
+		<path id="Vector" d="M25 25.877L28.6328 25.877L28.6328 34.959L25 34.959L25 25.877Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M52.3672 44.041L56 44.041L56 53.123L52.3672 53.123L52.3672 44.041Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M38.6836 34.959L42.3164 34.959L42.3164 44.041L38.6836 44.041L38.6836 34.959Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M27.7246 42.2246L36.8672 42.2246L36.8672 36.7754L27.7246 36.7754C26.2222 36.7754 25 37.9976 25 39.5C25 41.0024 26.2222 42.2246 27.7246 42.2246Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M53.2754 36.7754L44.1328 36.7754L44.1328 42.2246L53.2754 42.2246C54.7778 42.2246 56 41.0024 56 39.5C56 37.9976 54.7778 36.7754 53.2754 36.7754Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M53.2754 27.6934L30.4492 27.6934L30.4492 33.1426L53.2754 33.1426C54.7778 33.1426 56 31.9204 56 30.418C56 28.9155 54.7778 27.6934 53.2754 27.6934Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M27.7246 51.3066L50.5508 51.3066L50.5508 45.8574L27.7246 45.8574C26.2222 45.8574 25 47.0796 25 48.582C25 50.0845 26.2222 51.3066 27.7246 51.3066Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
